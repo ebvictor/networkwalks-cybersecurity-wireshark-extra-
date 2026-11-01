@@ -72,7 +72,8 @@ Following Tcp Streams
 Networkwalks wireshark intership 3.0.png
 
 Score on one of the labs
-Networkwalks internship wireshark 4.0.png
+
+![Score on one of the labs](images/Networkwalks%20internship%20wireshark%204.0.png)
 
 ## Key Lessons Learned
 
