@@ -66,13 +66,15 @@ This introduced me to another area of network traffic analysis beyond ordinary w
 
 The following screenshots provide evidence of selected activities carried out during the practical exercise.
 
-images/Networkwalks%20Wireshark%20Internship%20work.png
+![Networkwalks Wireshark Internship work](images/Networkwalks%20Wireshark%20Internship%20work.png)
 
 Following Tcp Streams
-images/.PlaceholderNetworkwalks%20wireshark%20intership%203.0.png
+
+![Following Tcp Streams](images/.PlaceholderNetworkwalks%20wireshark%20intership%203.0.png)
 
 Score on one of the labs
-images/Networkwalks%20internship%20wireshark%204.0.png
+
+![Score on one of the labs](images/Networkwalks%20internship%20wireshark%204.0.png)
 
 ## Key Lessons Learned
 
